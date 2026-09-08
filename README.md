@@ -90,7 +90,7 @@ Exploratory Data Analysis
 ## Project Structure
 
 ```text
-├── 10122259_Azzahra_Dania_Indriyani_LSP.ipynb
+├── Azzahra_Dania_Indriyani_LSP.ipynb
 ├── Dataset_Kemiskinan.xlsx
 ├── Dataset_Kemiskinan_Clean.csv
 └── README.md
